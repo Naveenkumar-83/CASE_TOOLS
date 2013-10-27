@@ -12,3 +12,15 @@ For those who don’t have their own bi-cycle there is a solution. The institute
 System Requirement:
 •	Windows 98 or above OS/linux/unix/MAC OS
 •	512 MB or above RAM.
+
+=================================================================
+
+in the modified folder of my project i have changed almost everything from look of the pages to the db. so it would be better you have a look over that.
+to start the project working--
+first you should have a local server i.e. localhost since it is a PHP project.
+second import the db (i've uploaded) into ur localhost.it is in sql format so there will not be any prblm.
+Next, start ur browser; type "localhost/casetools/main.php" (if u r having the files in the casetools directory of your localhost's directory.
+"care should be taken here"....
+
+if everything goes right..you will be accesing the project.
+......
